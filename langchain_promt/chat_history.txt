@@ -1,0 +1,2 @@
+HumanMessage(content="I want to understand calculus.")
+AIMessage(content="you will be taught right away")
